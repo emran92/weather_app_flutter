@@ -1,0 +1,50 @@
+{
+  "cod": "200",
+  "message": 0.0082,
+  "cnt": 40,
+  "list": [
+    {
+      "dt": 1486220400,
+      "main": {
+        "temp": 285.51,
+        "temp_min": 285.51,
+        "temp_max": 285.51,
+        "pressure": 1016.46,
+        "sea_level": 1026.16,
+        "grnd_level": 1016.46,
+        "humidity": 100,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 44
+      },
+      "wind": {
+        "speed": 2.97,
+        "deg": 283.001
+      },
+      "rain": { },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-02-04 15:00:00"
+    }
+  ],
+  "city": {
+    "id": 1907296,
+    "name": "Tawarano",
+    "coord": {
+      "lat": 35.0164,
+      "lon": 139.0077
+    },
+    "country": "none"
+  }
+
+}
